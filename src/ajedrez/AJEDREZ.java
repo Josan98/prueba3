@@ -25,6 +25,7 @@ public class AJEDREZ {
             }
 // el 3 representaia las amenazadas el 1 las torres y el 0 las que no estan amenazadas;
         }
+        //hola mundo
         int cont =0;
         while (cont!=6) {
             
